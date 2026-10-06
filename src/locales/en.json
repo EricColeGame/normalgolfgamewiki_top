@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "bounties": "Bounties",
+    "mechanics": "Mechanics",
+    "secrets": "Secrets",
+    "platforms": "Platforms",
+    "release": "Release",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -399,7 +406,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -431,9 +437,37 @@
     "vvBuilder": "Steam Community Hub",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Bounties Guide",
-    "bossGuides": "Clubs Guide",
-    "buildGuide": "Controls Guide",
+    "bossGuides": "Mechanics Guide",
+    "buildGuide": "Secrets Guide",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Normal Golf Game Guide",
+    "overviewDescription": "Browse the full Normal Golf Game guide hub: beginner walkthroughs, tips, scoring rules, hole-in-one help and 100% completion routes for your first and hundredth round."
+  },
+  "bounties": {
+    "overviewTitle": "Normal Golf Game Bounties",
+    "overviewDescription": "Track down every Normal Golf Game bounty with locations, challenge requirements and a final bounty walkthrough so no reward is left unclaimed."
+  },
+  "mechanics": {
+    "overviewTitle": "Normal Golf Game Mechanics",
+    "overviewDescription": "Understand Normal Golf Game mechanics, from scoring and penalties to club selection, speedgolf runs, no-assist play and the ultimate golf challenge."
+  },
+  "secrets": {
+    "overviewTitle": "Normal Golf Game Secrets",
+    "overviewDescription": "Find the hidden gong, secret gong, nightmare hole and other Normal Golf Game secrets with step-by-step directions and challenge notes."
+  },
+  "platforms": {
+    "overviewTitle": "Normal Golf Game Platforms",
+    "overviewDescription": "Check Normal Golf Game platform details for PC, Steam, Steam Deck, Switch, Xbox, plus online and multiplayer support."
+  },
+  "release": {
+    "overviewTitle": "Normal Golf Game Release",
+    "overviewDescription": "Follow the Normal Golf Game release date, full release, demo, price and download details for every supported storefront."
+  },
+  "community": {
+    "overviewTitle": "Normal Golf Game Community",
+    "overviewDescription": "Connect with the Normal Golf Game community through the official Discord, Reddit, YouTube and developer Luke Muscat."
   }
 }
