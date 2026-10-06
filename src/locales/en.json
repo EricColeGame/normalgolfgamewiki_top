@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Normal Golf Game Journey",
+      "title": "Your Normal Golf Game Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the flow of a full round, the basic rules, scoring and the pace-of-play habits that make your first 18 holes enjoyable."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Shot Mechanics",
+          "description": "Understand stance, swing tempo, club face angle and shot path so you can control where the ball actually goes."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Bounties",
+          "description": "Read bounty triggers, conditions and rewards before the first tee so a normal round doubles as a progression run."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Normal Golf Game."
+          "title": "Achievements & 100%",
+          "description": "Set clear goals for a full clear with scoring targets, practice plans and the habits that get you under par."
         }
       ]
     },
@@ -66,237 +66,297 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Controls",
+        "Club Selection",
+        "Bounties",
+        "Achievements"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Rules, scoring and etiquette explained for your first full round.",
+          "href": "/guide/normal-golf-game-beginner-guide"
+        },
+        {
+          "badge": "Core",
+          "title": "Mechanics Explained",
+          "description": "How lies, club selection, penalties and scoring shape every hole.",
+          "href": "/mechanics/normal-golf-game-mechanics"
+        },
+        {
+          "badge": "Popular",
+          "title": "Bounties Guide",
+          "description": "Bounty types, rewards and the habits that clear them faster.",
+          "href": "/bounties/normal-golf-game-bounties"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Tips & Fixes",
+          "description": "Course management, contact fixes and short-game drills that save strokes.",
+          "href": "/guide/normal-golf-game-tips"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "100% Completion",
+          "description": "What an honest, fully committed round looks like from tee to green.",
+          "href": "/guide/normal-golf-game-100-percent"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Secrets & Hidden Holes",
+          "description": "Hidden gongs, nightmare holes and challenge secrets worth hunting down.",
+          "href": "/secrets/normal-golf-game-hidden-secrets"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Normal Golf Game?",
       "paragraphs": [
-        "Normal Golf Game is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Normal Golf Game is a challenging physics-based golf simulator from solo developer Luke Muscat. Instead of a single swing meter, you control your stance, swing direction, club face angle and shot path, then live with the result on a huge course full of strange challenges.",
+        "Released on PC and Steam on September 21, 2026, it pairs traditional golf scoring with 100+ Bounties, 20 Steam achievements and a darkly comic story. Our wiki breaks down the controls, clubs, bounties and walkthroughs so you can play with a plan on every hole."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Luke Muscat"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release Date",
+          "value": "September 21, 2026"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Bounties",
+          "value": "100+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Achievements",
+          "value": "20"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "User Reviews",
+          "value": "1,190+ (98% Positive)"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Normal Golf Game Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "From your first tee shot to the final bounty, these guides cover the controls, clubs, challenges and systems that define Normal Golf Game.",
       "modules": [
         {
           "order": 1,
-          "name": "Normal Golf Game Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/normal-golf-game-codes",
-          "displayType": "code-box",
+          "name": "Normal Golf Game Wiki Beginner Guide",
+          "description": "Understand the core goal, the basics of a round and the strange challenges that trip up new players.",
+          "href": "/guide/normal-golf-game-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Learn the course layout, par, and how an 18-hole round is structured."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Build a simple half set: a putter, a few irons and a wedge are enough to start."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Treat tee shots, approach shots and putting as three separate skills."
+            },
+            {
+              "label": "4",
+              "detail": "Count every stroke honestly and aim for bogey golf as a realistic first target."
+            },
+            {
+              "label": "5",
+              "detail": "Keep pace with ready golf, repair ball marks and rake bunkers."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/normal-golf-game-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Normal Golf Game Wiki Controls",
+          "description": "See how stance, swing direction, club face angle and shot path combine into every shot.",
+          "href": "/mechanics/normal-golf-game-mechanics",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Stance",
+              "detail": "Set your feet and ball position before every swing."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Swing",
+              "detail": "Control backswing tempo and downswing timing manually."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Club Face",
+              "detail": "Face angle relative to swing path decides a draw or a fade."
+            },
+            {
+              "label": "Shot Path",
+              "detail": "Manual alignment replaces the auto-aim arc and snap-to-target."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/normal-golf-game-tier-list",
-          "displayType": "tier-grid",
+          "name": "Normal Golf Game Wiki Bounties",
+          "description": "Track bounty triggers, conditions and rewards so side objectives never slip past you.",
+          "href": "/bounties/normal-golf-game-bounties",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Scoring",
+              "detail": "Birdies, eagles and under-par nines pay the biggest rewards."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Shot Shape",
+              "detail": "Draw, fade and stinger bounties reward a deliberate ball flight."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Distance",
+              "detail": "Long drives and exact carry yardages stack with aggressive play."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Accuracy",
+              "detail": "Fairways hit, greens in regulation and sand saves are low-risk payouts."
+            },
+            {
+              "label": "Streaks",
+              "detail": "Chain consecutive pars or birdies without gambling on risky pins."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/normal-golf-game-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Normal Golf Game Wiki Clubs",
+          "description": "Compare club families by loft, role and typical carry distance to build a bag that gaps correctly.",
+          "href": "/guide/normal-golf-game-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Putter — every shot on the green runs through it."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Driver — maximum distance off the tee, roughly 180-230 yards for the average amateur."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Irons (4-PW) — approach shots and par 3 tee shots from about 100-180 yards."
+            },
+            {
+              "label": "C",
+              "detail": "Wedges — short approaches, bunkers and chips inside 110 yards."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/normal-golf-game-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Normal Golf Game Wiki Achievements",
+          "description": "Work toward a complete clear with scoring targets, streak goals and practice milestones.",
+          "href": "/guide/normal-golf-game-100-percent",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Full Clear",
+              "detail": "Finish 18 holes at 100 percent with honest stroke counting."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Under Par",
+              "detail": "Post a full round below par without gimmes or mulligans."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Streaks",
+              "detail": "String together consecutive pars or birdies in a single round."
+            },
+            {
+              "label": "Long Putt",
+              "detail": "Sink a putt from well outside your comfortable green-reading range."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/normal-golf-game-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Normal Golf Game Wiki Modes",
+          "description": "Compare stroke play, match play, scramble, speedgolf and no-assist rules in one place.",
+          "href": "/mechanics/normal-golf-game-ultimate-golf-challenge",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Stroke",
+              "detail": "Count every stroke across 18 holes; the lowest total wins."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Match",
+              "detail": "Win individual holes head-to-head instead of counting total strokes."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Scramble",
+              "detail": "A team plays the best shot each time, which is ideal for beginners."
+            },
+            {
+              "label": "Speedgolf",
+              "detail": "Play the same course against the clock with fewer clubs."
+            },
+            {
+              "label": "No Assists",
+              "detail": "Turn off the swing meter, putting grid and auto-aim for full simulation."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Normal Golf Game Wiki Patch Notes",
+          "description": "Follow the full release timeline, new gear drops and the fixes that shipped after launch.",
+          "href": "/release/normal-golf-game-full-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "The full 1.0 launch arrived on PC and Steam on September 21, 2026."
+            },
+            {
+              "label": "New Gear",
+              "detail": "Fresh clubs, cosmetics and bag tags expand what you can earn."
+            },
+            {
+              "label": "Bounties",
+              "detail": "100+ bounties shipped with the full release across scoring, accuracy and streaks."
+            },
+            {
+              "label": "Fixes",
+              "detail": "Ongoing patches improve stability and controller support on PC."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Normal Golf Game Wiki System Requirements",
+          "description": "Check platform support, controller needs and Steam Deck compatibility before you install.",
+          "href": "/platforms/normal-golf-game-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows PC via Steam, with the full release live since September 21, 2026."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Check the Valve compatibility badge: Verified runs with a default controller config."
+            },
+            {
+              "label": "Controller",
+              "detail": "Analog stick input is recommended for manual swing tempo."
+            },
+            {
+              "label": "Display",
+              "detail": "Readable UI matters most for handheld play on smaller screens."
             }
           ]
         }
@@ -308,23 +368,27 @@
       "items": [
         {
           "question": "What is Normal Golf Game?",
-          "answer": "Normal Golf Game is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Normal Golf Game is a single-player physics golf simulator from developer Luke Muscat. You control your stance, swing direction, club face angle and shot path across a large course filled with strange challenges and 100+ Bounties."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What platforms is Normal Golf Game on?",
+          "answer": "Normal Golf Game is available on PC through Steam and released on September 21, 2026. The Steam page currently lists English as the supported interface language."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many Bounties and achievements are in Normal Golf Game?",
+          "answer": "The full release of Normal Golf Game includes 100+ Bounties and 20 Steam achievements, so there is plenty to chase beyond a simple scorecard."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is Normal Golf Game difficult?",
+          "answer": "Yes. Normal Golf Game is built around a deliberately challenging physics system: you manage stance, swing and club face separately, so shots rarely land exactly where you expect at first."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where should a beginner start in Normal Golf Game?",
+          "answer": "Start with the Normal Golf Game Beginner Guide to learn the flow of a round, scoring and pace of play, then move on to the Controls and Bounties sections of this wiki."
+        },
+        {
+          "question": "Does Normal Golf Game have a story?",
+          "answer": "Normal Golf Game pairs its physics golf with a strange, darkly comic story and a huge course full of unusual challenges and hidden secrets."
         }
       ]
     },
