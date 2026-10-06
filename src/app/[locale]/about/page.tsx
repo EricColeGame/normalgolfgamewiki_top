@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Normal Golf Game Wiki is an independent fan-built guide hub covering golf controls, clubs, bounties, walkthroughs, achievements, secrets, and essential knowledge for new and veteran players alike.</p>
+      <p>It is an unofficial community resource and is not affiliated with Luke Muscat or Valve Corporation.</p>
     </LegalPage>
   );
 }

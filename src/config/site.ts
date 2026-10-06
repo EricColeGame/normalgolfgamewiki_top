@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Guides, Bounties, Clubs & Walkthroughs",
   description: "Fan-made Normal Golf Game wiki covering golf controls, clubs, bounties, walkthroughs, achievements, secrets and tips for the surreal physics golf simulator.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://normalgolfgamewiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://normalgolfgamewiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@normalgolfgamewiki.top",
   gameUrl: "https://store.steampowered.com/app/3510740/Normal_Golf_Game/",
   heroVideoId: "rT1IYuT5X4o", // Normal Golf Game — official trailer (Luke Muscat)
   social: {
