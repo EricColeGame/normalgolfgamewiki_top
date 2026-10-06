@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://discord.com/game/normal-golf-game-1511211351266164737",
     youtube: "https://www.youtube.com/@lukemuscat",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "de", "ja", "ko"],
   defaultLocale: "en",
 };
