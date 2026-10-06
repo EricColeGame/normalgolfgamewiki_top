@@ -76,17 +76,26 @@ export function TrailerCard({ videoId }: { videoId: string }) {
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
         <img
-          src={videoId ? `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg` : "/images/hero.webp"}
+          src={videoId ? "/images/hero-trailer-thumbnail.jpg" : "/images/hero.webp"}
           alt={`${siteConfig.shortName} Official Trailer`}
           className="size-full object-cover transition-all duration-200 group-hover:brightness-80"
           onError={(e) => {
             const img = e.target as HTMLImageElement;
-            if (!videoId || img.dataset.fallback === "hq") {
+            if (!videoId) {
               img.src = "/images/hero.webp";
               return;
             }
-            img.dataset.fallback = "hq";
-            img.src = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+            if (img.dataset.fallback === "max") {
+              img.dataset.fallback = "hq";
+              img.src = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+              return;
+            }
+            if (img.dataset.fallback === "hq") {
+              img.src = "/images/hero.webp";
+              return;
+            }
+            img.dataset.fallback = "max";
+            img.src = `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`;
           }}
         />
       </div>
