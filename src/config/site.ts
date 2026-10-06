@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Normal Golf Game Wiki",
+  shortName: "Normal Golf Game",
+  logoText: "N",
+  tagline: "Guides, Bounties, Clubs & Walkthroughs",
+  description: "Fan-made Normal Golf Game wiki covering golf controls, clubs, bounties, walkthroughs, achievements, secrets and tips for the surreal physics golf simulator.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://normalgolfgamewiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://normalgolfgamewiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/3510740/Normal_Golf_Game/",
+  heroVideoId: "rT1IYuT5X4o", // Normal Golf Game — official trailer (Luke Muscat)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.com/game/normal-golf-game-1511211351266164737",
+    youtube: "https://www.youtube.com/@lukemuscat",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
