@@ -1,5 +1,6 @@
 "use client";
 import { siteConfig } from "@/config/site";
+import { useTranslations } from "next-intl";
 
 import Link from "next/link";
 import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
@@ -19,6 +20,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
   const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+  const tShared = useTranslations("shared");
 
   return (
     <div className="min-w-0 space-y-16">
@@ -38,7 +40,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       {/* Official Trailer — kept immediately after the Hero section */}
       {YOUTUBE_VIDEO_ID && (
         <section className="mx-auto w-full max-w-4xl">
-          <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
+          <TrailerButton videoId={YOUTUBE_VIDEO_ID} closeLabel={tShared("close")} />
         </section>
       )}
 
@@ -207,7 +209,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                           "text-muted-foreground";
                         return (
                           <div key={i} className={`rounded-xl border p-4 ${tierColor}`}>
-                            <span className={`text-sm font-bold ${tierText}`}>{h.label} Tier</span>
+                            <span className={`text-sm font-bold ${tierText}`}>{h.label} {tShared("tierLabel")}</span>
                             <p className="mt-1.5 text-xs leading-5 text-muted-foreground">{h.detail}</p>
                           </div>
                         );
@@ -231,7 +233,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                     href={localizeHref(mod.href, locale)}
                     className="mt-5 inline-flex items-center text-sm font-semibold text-[hsl(var(--nav-theme))] hover:underline"
                   >
-                    Read Full Guide <ChevronRight className="ml-1 h-4 w-4" />
+                    {tShared("readFullGuide")} <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>
                 </div>
               </div>

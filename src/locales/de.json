@@ -1,1 +1,478 @@
-{}
+{
+  "site": {
+    "name": "Normal Golf Game Wiki",
+    "shortName": "Normal Golf Game",
+    "tagline": "Guides, Bounties, Schläger & Walkthroughs",
+    "description": "Dein ultimativer Leitfaden zu Normal Golf Game für PC und Steam! Entdecke Golf-Steuerung, Schläger, Bounties, Walkthroughs, Erfolge, Geheimnisse und Tipps.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "bounties": "Bounties",
+    "mechanics": "Mechanik",
+    "secrets": "Geheimnisse",
+    "platforms": "Plattformen",
+    "release": "Release",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Normal Golf Game Wiki - Guides, Bounties & Schläger",
+      "description": "Das Normal Golf Game Wiki behandelt Golf-Steuerung, Schläger, Bounties, Walkthroughs, Erfolge, Geheimnisse und Tipps, damit Spieler die anspruchsvolle Physik des Spiels meistern."
+    },
+    "hero": {
+      "eyebrow": "Surrealer Physik-Golfsimulator",
+      "title": "Normal Golf Game Wiki",
+      "description": "Normal Golf Game ist ein anspruchsvoller physikbasierter Golf-Simulator, bei dem du Stand, Schwung, Schlägerblatt und Flugbahn kontrollierst, während du einen riesigen Platz voller seltsamer Herausforderungen, Bounties und einer bizarren Geschichte erkundest.",
+      "stats": [
+        "1.190+ Nutzerbewertungen",
+        "100+ Bounties",
+        "20 Steam-Erfolge",
+        "Erschienen am 21. September 2026"
+      ],
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Bounty-Guide",
+      "tertiaryCta": "Auf Steam spielen",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise im Normal Golf Game Wiki",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Lerne den Ablauf einer vollen Runde, die Grundregeln, das Zählen und die Gewohnheiten für ein angenehmes Spieltempo auf deinen ersten 18 Löchern."
+        },
+        {
+          "number": "2",
+          "title": "Schussmechanik",
+          "description": "Verstehe Stand, Schwungtempo, Schlägerblattwinkel und Flugbahn, damit du kontrollierst, wohin der Ball wirklich fliegt."
+        },
+        {
+          "number": "3",
+          "title": "Bounties",
+          "description": "Lies Bounty-Auslöser, Bedingungen und Belohnungen vor dem ersten Abschlag, damit eine normale Runde zugleich ein Fortschrittslauf wird."
+        },
+        {
+          "number": "4",
+          "title": "Erfolge & 100 %",
+          "description": "Setze klare Ziele für einen vollständigen Abschluss mit Score-Zielen, Übungsplänen und Gewohnheiten, die dich unter Par bringen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Steuerung",
+        "Schlägerwahl",
+        "Bounties",
+        "Erfolge"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Regeln, Zählweise und Etikette für deine erste volle Runde.",
+          "href": "/guide/normal-golf-game-beginner-guide"
+        },
+        {
+          "badge": "Kern",
+          "title": "Mechanik erklärt",
+          "description": "Wie Lage, Schlägerwahl, Strafen und Zählweise jedes Loch prägen.",
+          "href": "/mechanics/normal-golf-game-mechanics"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Bounty-Guide",
+          "description": "Bounty-Arten, Belohnungen und die Gewohnheiten, die sie schneller abschließen.",
+          "href": "/bounties/normal-golf-game-bounties"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Tipps & Korrekturen",
+          "description": "Platzmanagement, Kontaktkorrekturen und Kurzspiel-Übungen, die Schläge sparen.",
+          "href": "/guide/normal-golf-game-tips"
+        },
+        {
+          "badge": "Neu",
+          "title": "100 % Abschluss",
+          "description": "Wie eine ehrliche, voll konzentrierte Runde vom Abschlag bis zum Grün aussieht.",
+          "href": "/guide/normal-golf-game-100-percent"
+        },
+        {
+          "badge": "Neu",
+          "title": "Geheimnisse & verborgene Löcher",
+          "description": "Verborgene Gongs, Albtraumlöcher und Challenge-Geheimnisse, die sich lohnen.",
+          "href": "/secrets/normal-golf-game-hidden-secrets"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Normal Golf Game?",
+      "paragraphs": [
+        "Normal Golf Game ist ein anspruchsvoller physikbasierter Golf-Simulator vom Solo-Entwickler Luke Muscat. Statt eines einzelnen Schwungbalkens steuerst du Stand, Schwungrichtung, Schlägerblattwinkel und Flugbahn und lebst dann mit dem Ergebnis auf einem riesigen Platz voller seltsamer Herausforderungen.",
+        "Am 21. September 2026 für PC und Steam erschienen, verbindet es traditionelles Golf-Zählen mit 100+ Bounties, 20 Steam-Erfolgen und einer düster-komischen Geschichte. Unser Wiki erläutert Steuerung, Schläger, Bounties und Walkthroughs, damit du jedes Loch mit Plan spielst."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Luke Muscat"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "Erscheinungsdatum",
+          "value": "21. September 2026"
+        },
+        {
+          "label": "Bounties",
+          "value": "100+"
+        },
+        {
+          "label": "Erfolge",
+          "value": "20"
+        },
+        {
+          "label": "Nutzerbewertungen",
+          "value": "1.190+ (98 % positiv)"
+        }
+      ],
+      "cta": "Alle Guides entdecken"
+    },
+    "explore": {
+      "title": "Normal Golf Game Wiki erkunden",
+      "description": "Von deinem ersten Abschlag bis zur letzten Bounty decken diese Guides die Steuerung, Schläger, Herausforderungen und Systeme ab, die Normal Golf Game ausmachen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Normal Golf Game Wiki Einsteiger-Guide",
+          "description": "Verstehe das Kernziel, die Grundlagen einer Runde und die seltsamen Herausforderungen, an denen neue Spieler hängen bleiben.",
+          "href": "/guide/normal-golf-game-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lerne Platzlayout, Par und den Aufbau einer 18-Loch-Runde."
+            },
+            {
+              "label": "2",
+              "detail": "Stelle ein einfaches halbes Set zusammen: ein Putter, ein paar Eisen und ein Wedge reichen zum Start."
+            },
+            {
+              "label": "3",
+              "detail": "Behandle Abschlag, Annäherung und Putten als drei getrennte Fähigkeiten."
+            },
+            {
+              "label": "4",
+              "detail": "Zähle jeden Schlag ehrlich und peile als realistisches erstes Ziel Bogey-Golf an."
+            },
+            {
+              "label": "5",
+              "detail": "Halte das Tempo mit Ready Golf, repariere Pitchmarken und harke Bunker."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Normal Golf Game Wiki Steuerung",
+          "description": "Sieh, wie Stand, Schwungrichtung, Schlägerblattwinkel und Flugbahn zu jedem Schlag zusammenwirken.",
+          "href": "/mechanics/normal-golf-game-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Stand",
+              "detail": "Lege deine Füße und die Ballposition vor jedem Schwung fest."
+            },
+            {
+              "label": "Schwung",
+              "detail": "Steuere Rückschwung-Tempo und Timing des Abschwungs manuell."
+            },
+            {
+              "label": "Schlägerblatt",
+              "detail": "Der Blattwinkel relativ zur Schwungbahn entscheidet über Draw oder Fade."
+            },
+            {
+              "label": "Flugbahn",
+              "detail": "Manuelle Ausrichtung ersetzt den Auto-Zielbogen und das Einrasten aufs Ziel."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Normal Golf Game Wiki Bounties",
+          "description": "Verfolge Bounty-Auslöser, Bedingungen und Belohnungen, damit dir keine Nebenaufgabe entgeht.",
+          "href": "/bounties/normal-golf-game-bounties",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zählweise",
+              "detail": "Birdies, Eagles und Nines unter Par zahlen die größten Belohnungen."
+            },
+            {
+              "label": "Schlagform",
+              "detail": "Draw-, Fade- und Stinger-Bounties belohnen einen bewussten Ballflug."
+            },
+            {
+              "label": "Distanz",
+              "detail": "Lange Drives und exakte Carry-Distanzen stapeln sich mit aggressivem Spiel."
+            },
+            {
+              "label": "Genauigkeit",
+              "detail": "Fairways getroffen, Grüns in Regulation und Sand-Saves sind risikoarme Auszahlungen."
+            },
+            {
+              "label": "Serien",
+              "detail": "Verkette aufeinanderfolgende Pars oder Birdies, ohne auf riskante Fahnen zu setzen."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Normal Golf Game Wiki Schläger",
+          "description": "Vergleiche Schlägerfamilien nach Loft, Rolle und typischer Schlagdistanz, um eine Tasche mit passenden Lücken zu bauen.",
+          "href": "/guide/normal-golf-game-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Putter — jeder Schlag auf dem Grün läuft über ihn."
+            },
+            {
+              "label": "A",
+              "detail": "Driver — maximale Distanz vom Abschlag, etwa 180-230 Yards für den durchschnittlichen Amateur."
+            },
+            {
+              "label": "B",
+              "detail": "Eisen (4-PW) — Annäherungen und Abschläge an Par 3 von etwa 100-180 Yards."
+            },
+            {
+              "label": "C",
+              "detail": "Wedges — kurze Annäherungen, Bunker und Chips innerhalb von 110 Yards."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Normal Golf Game Wiki Erfolge",
+          "description": "Arbeite mit Score-Zielen, Serienzielen und Übungsmeilensteinen auf einen vollständigen Abschluss hin.",
+          "href": "/guide/normal-golf-game-100-percent",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Vollständiger Abschluss",
+              "detail": "Beende 18 Löcher zu 100 Prozent mit ehrlicher Schlagzählung."
+            },
+            {
+              "label": "Unter Par",
+              "detail": "Spiele eine volle Runde unter Par ohne Gimmes oder Mulligans."
+            },
+            {
+              "label": "Serien",
+              "detail": "Reihe in einer Runde aufeinanderfolgende Pars oder Birdies aneinander."
+            },
+            {
+              "label": "Langer Putt",
+              "detail": "Versinke einen Putt deutlich außerhalb deiner gewohnten Grünlese-Distanz."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Normal Golf Game Wiki Modi",
+          "description": "Vergleiche Zählspiel, Matchplay, Scramble, Speedgolf und Spiel ohne Hilfen an einem Ort.",
+          "href": "/mechanics/normal-golf-game-ultimate-golf-challenge",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zählspiel",
+              "detail": "Zähle jeden Schlag über 18 Löcher; die niedrigste Summe gewinnt."
+            },
+            {
+              "label": "Matchplay",
+              "detail": "Gewinne einzelne Löcher im direkten Duell statt über die Gesamtschlagzahl."
+            },
+            {
+              "label": "Scramble",
+              "detail": "Ein Team spielt jedes Mal den besten Schlag – ideal für Einsteiger."
+            },
+            {
+              "label": "Speedgolf",
+              "detail": "Spiele denselben Platz gegen die Uhr mit weniger Schlägern."
+            },
+            {
+              "label": "Ohne Hilfen",
+              "detail": "Schalte Schwungmesser, Putt-Raster und Auto-Ziel aus für volle Simulation."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Normal Golf Game Wiki Patchnotes",
+          "description": "Verfolge die Release-Zeitleiste, neue Ausrüstung und die Korrekturen nach dem Launch.",
+          "href": "/release/normal-golf-game-full-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Der volle 1.0-Launch erschien am 21. September 2026 für PC und Steam."
+            },
+            {
+              "label": "Neue Ausrüstung",
+              "detail": "Neue Schläger, Kosmetik und Bag-Tags erweitern, was du verdienen kannst."
+            },
+            {
+              "label": "Bounties",
+              "detail": "100+ Bounties kamen mit der Vollversion über Zählweise, Genauigkeit und Serien."
+            },
+            {
+              "label": "Korrekturen",
+              "detail": "Laufende Patches verbessern Stabilität und Controller-Unterstützung auf dem PC."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Normal Golf Game Wiki Systemanforderungen",
+          "description": "Prüfe Plattformunterstützung, Controller-Bedarf und Steam-Deck-Kompatibilität, bevor du installierst.",
+          "href": "/platforms/normal-golf-game-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Betriebssystem",
+              "detail": "Windows-PC über Steam, die Vollversion ist seit dem 21. September 2026 live."
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Prüfe das Valve-Kompatibilitätsabzeichen: Verified läuft mit Standard-Controller-Konfiguration."
+            },
+            {
+              "label": "Controller",
+              "detail": "Analoge Stick-Eingabe wird für manuelles Schwungtempo empfohlen."
+            },
+            {
+              "label": "Anzeige",
+              "detail": "Eine gut lesbare Oberfläche ist für Handheld-Spiel auf kleinen Bildschirmen am wichtigsten."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu Normal Golf Game.",
+      "items": [
+        {
+          "question": "Was ist Normal Golf Game?",
+          "answer": "Normal Golf Game ist ein Einzelspieler-Physik-Golf-Simulator vom Entwickler Luke Muscat. Du steuerst Stand, Schwungrichtung, Schlägerblattwinkel und Flugbahn auf einem großen Platz voller seltsamer Herausforderungen und 100+ Bounties."
+        },
+        {
+          "question": "Auf welchen Plattformen ist Normal Golf Game verfügbar?",
+          "answer": "Normal Golf Game ist über Steam für PC verfügbar und am 21. September 2026 erschienen. Die Steam-Seite listet derzeit Englisch als unterstützte Oberflächensprache."
+        },
+        {
+          "question": "Wie viele Bounties und Erfolge gibt es in Normal Golf Game?",
+          "answer": "Die Vollversion von Normal Golf Game enthält 100+ Bounties und 20 Steam-Erfolge, sodass es jenseits einer einfachen Scorekarte viel zu jagen gibt."
+        },
+        {
+          "question": "Ist Normal Golf Game schwierig?",
+          "answer": "Ja. Normal Golf Game ist um ein bewusst anspruchsvolles Physiksystem herum gebaut: Du steuerst Stand, Schwung und Schlägerblatt getrennt, sodass Schläge zunächst selten genau dort landen, wo du es erwartest."
+        },
+        {
+          "question": "Wo sollte ein Einsteiger in Normal Golf Game beginnen?",
+          "answer": "Beginne mit dem Normal Golf Game Einsteiger-Guide, um Ablauf einer Runde, Zählweise und Spieltempo zu lernen, und gehe dann zu den Abschnitten Steuerung und Bounties in diesem Wiki über."
+        },
+        {
+          "question": "Hat Normal Golf Game eine Geschichte?",
+          "answer": "Normal Golf Game verbindet sein Physik-Golf mit einer seltsamen, düster-komischen Geschichte und einem riesigen Platz voller ungewöhnlicher Herausforderungen und verborgener Geheimnisse."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, Normal Golf Game zu meistern?",
+      "description": "Von deinem ersten Abschlag bis zur letzten Bounty bietet dir unser Community-Wiki kostenlose, aktuelle Guides, Tipps und Walkthroughs.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes ansehen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "readFullGuide": "Ganzen Guide lesen",
+    "tierLabel": "Tier",
+    "close": "Schließen",
+    "noActiveCodes": "Derzeit keine aktiven Codes verfügbar",
+    "checkBackSoon": "Schau bald wieder nach neuen Codes vorbei"
+  },
+  "footer": {
+    "aboutTitle": "Normal Golf Game Wiki",
+    "about": "Das Normal Golf Game Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub zu Golf-Steuerung, Schlägern, Bounties, Walkthroughs, Erfolgen, Geheimnissen und wichtigem Spielwissen für neue und erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 Normal Golf Game Wiki. Nicht mit Luke Muscat oder Valve Corporation verbunden.",
+    "description": "Anspruchsvoller Physik-Golf-Sim für PC und Steam. 100+ Bounties, 20 Erfolge.",
+    "playGame": "Auf Steam spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Entwickler-YouTube",
+    "vvBuilder": "Steam-Community-Hub",
+    "beginnerGuide": "Einsteiger-Guide",
+    "raceGuides": "Bounty-Guide",
+    "bossGuides": "Mechanik-Guide",
+    "buildGuide": "Geheimnis-Guide",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  },
+  "guide": {
+    "overviewTitle": "Normal Golf Game Guide",
+    "overviewDescription": "Durchsuche den kompletten Guide-Hub zu Normal Golf Game: Einsteiger-Walkthroughs, Tipps, Zählregeln, Hilfe zum Hole-in-One und 100-%-Routen für deine erste und hundertste Runde."
+  },
+  "bounties": {
+    "overviewTitle": "Normal Golf Game Bounties",
+    "overviewDescription": "Spüre jede Bounty in Normal Golf Game auf – mit Fundorten, Challenge-Anforderungen und einem Walkthrough für die letzte Bounty, damit keine Belohnung ausgelassen wird."
+  },
+  "mechanics": {
+    "overviewTitle": "Normal Golf Game Mechanik",
+    "overviewDescription": "Verstehe die Mechanik von Normal Golf Game – von Zählweise und Strafen bis Schlägerwahl, Speedgolf-Läufen, Spiel ohne Hilfen und der ultimativen Golf-Challenge."
+  },
+  "secrets": {
+    "overviewTitle": "Normal Golf Game Geheimnisse",
+    "overviewDescription": "Finde den verborgenen Gong, den geheimen Gong, das Albtraumloch und weitere Geheimnisse von Normal Golf Game mit Schritt-für-Schritt-Anleitungen und Challenge-Notizen."
+  },
+  "platforms": {
+    "overviewTitle": "Normal Golf Game Plattformen",
+    "overviewDescription": "Prüfe die Plattformdetails von Normal Golf Game für PC, Steam, Steam Deck, Switch, Xbox sowie Online- und Mehrspieler-Unterstützung."
+  },
+  "release": {
+    "overviewTitle": "Normal Golf Game Release",
+    "overviewDescription": "Verfolge Release-Datum, Vollversion, Demo, Preis und Download-Details von Normal Golf Game für alle unterstützten Stores."
+  },
+  "community": {
+    "overviewTitle": "Normal Golf Game Community",
+    "overviewDescription": "Vernetze dich mit der Normal Golf Game Community über den offiziellen Discord, Reddit, YouTube und Entwickler Luke Muscat."
+  }
+}

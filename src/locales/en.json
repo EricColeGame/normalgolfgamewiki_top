@@ -421,7 +421,12 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "readFullGuide": "Read Full Guide",
+    "tierLabel": "Tier",
+    "close": "Close",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoon": "Check back soon for new codes"
   },
   "footer": {
     "aboutTitle": "Normal Golf Game Wiki",

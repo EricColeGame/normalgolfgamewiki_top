@@ -1,1 +1,478 @@
-{}
+{
+  "site": {
+    "name": "Normal Golf Game Wiki",
+    "shortName": "Normal Golf Game",
+    "tagline": "ガイド、バウンティ、クラブ、ウォークスルー",
+    "description": "PCとSteamで遊べるNormal Golf Gameの究極ガイド！ゴルフの操作、クラブ、バウンティ、ウォークスルー、実績、秘密、ヒントを解説します。",
+    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切り替え",
+    "guide": "ガイド",
+    "bounties": "バウンティ",
+    "mechanics": "メカニクス",
+    "secrets": "秘密",
+    "platforms": "対応プラットフォーム",
+    "release": "リリース",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Normal Golf Game Wiki - ガイド、バウンティ、クラブ",
+      "description": "Normal Golf Game Wikiでは、ゴルフの操作、クラブ、バウンティ、ウォークスルー、実績、秘密、ヒントを解説し、難しい物理演算をマスターできるようサポートします。"
+    },
+    "hero": {
+      "eyebrow": "シュールな物理演算ゴルフシム",
+      "title": "Normal Golf Game Wiki",
+      "description": "Normal Golf Gameは、スタンス、スイング、クラブフェース、ショットの軌道を操作する高難度の物理演算ゴルフシミュレーターです。奇妙なチャレンジ、バウンティ、風変わりなストーリーに満ちた広大なコースを探索しましょう。",
+      "stats": [
+        "ユーザーレビュー1,190件以上",
+        "バウンティ100以上",
+        "Steam実績20個",
+        "2026年9月21日リリース"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "バウンティガイド",
+      "tertiaryCta": "Steamでプレイ",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Normal Golf Game Wikiの旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ラウンド全体の流れ、基本ルール、スコアの付け方、最初の18ホールを楽しく回るためのペース配分を学びます。"
+        },
+        {
+          "number": "2",
+          "title": "ショットのメカニクス",
+          "description": "スタンス、スイングテンポ、クラブフェースの角度、ショットの軌道を理解し、ボールの行き先をコントロールしましょう。"
+        },
+        {
+          "number": "3",
+          "title": "バウンティ",
+          "description": "最初のティーショット前にバウンティの発動条件・条件・報酬を確認し、通常のラウンドを進行度稼ぎに変えましょう。"
+        },
+        {
+          "number": "4",
+          "title": "実績と100%",
+          "description": "スコア目標、練習計画、パー以下を狙う習慣で、完全クリアへの明確な目標を立てましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "操作",
+        "クラブ選択",
+        "バウンティ",
+        "実績"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のフルラウンドに向けたルール、スコア、マナーを解説。",
+          "href": "/guide/normal-golf-game-beginner-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "メカニクス解説",
+          "description": "ライ、クラブ選択、ペナルティ、スコアが各ホールをどう左右するか。",
+          "href": "/mechanics/normal-golf-game-mechanics"
+        },
+        {
+          "badge": "人気",
+          "title": "バウンティガイド",
+          "description": "バウンティの種類、報酬、より早くクリアする習慣。",
+          "href": "/bounties/normal-golf-game-bounties"
+        },
+        {
+          "badge": "更新",
+          "title": "ヒントと修正",
+          "description": "コースマネジメント、コンタクトの修正、スコアを節約するショートゲーム練習。",
+          "href": "/guide/normal-golf-game-tips"
+        },
+        {
+          "badge": "新着",
+          "title": "100%クリア",
+          "description": "ティーからグリーンまで、誠実に全力を尽くしたラウンドとは。",
+          "href": "/guide/normal-golf-game-100-percent"
+        },
+        {
+          "badge": "新着",
+          "title": "秘密と隠しホール",
+          "description": "隠しゴング、ナイトメアホール、追いかける価値のあるチャレンジの秘密。",
+          "href": "/secrets/normal-golf-game-hidden-secrets"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Normal Golf Gameとは？",
+      "paragraphs": [
+        "Normal Golf Gameは、ソロ開発者Luke Muscatによる高難度の物理演算ゴルフゲームです。単一のスイングメーターではなく、スタンス、スイング方向、クラブフェースの角度、ショットの軌道を操作し、奇妙なチャレンジに満ちた広大なコースでその結果と向き合います。",
+        "2026年9月21日にPCとSteamでリリースされ、伝統的なゴルフのスコアリングに100以上のバウンティ、20個のSteam実績、ダークコメディ調のストーリーを組み合わせています。当Wikiでは操作、クラブ、バウンティ、ウォークスルーを解説し、各ホールを計画通りにプレイできるようにします。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Luke Muscat"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "リリース日",
+          "value": "2026年9月21日"
+        },
+        {
+          "label": "バウンティ",
+          "value": "100以上"
+        },
+        {
+          "label": "実績",
+          "value": "20"
+        },
+        {
+          "label": "ユーザーレビュー",
+          "value": "1,190件以上（98%好評）"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Normal Golf Game Wikiを探索",
+      "description": "最初のティーショットから最後のバウンティまで、これらのガイドがNormal Golf Gameを形作る操作、クラブ、チャレンジ、システムを網羅します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Normal Golf Game Wiki 初心者ガイド",
+          "description": "中心となる目標、ラウンドの基本、初心者がつまずく奇妙なチャレンジを理解します。",
+          "href": "/guide/normal-golf-game-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "コースレイアウト、パー、18ホールの構成を学ぶ。"
+            },
+            {
+              "label": "2",
+              "detail": "まずはハーフセットを揃える：パター、数本のアイアン、ウェッジで十分。"
+            },
+            {
+              "label": "3",
+              "detail": "ティーショット、アプローチ、パッティングを3つの別スキルとして扱う。"
+            },
+            {
+              "label": "4",
+              "detail": "すべての打数を正直に数え、現実的な最初の目標としてボギーゴルフを目指す。"
+            },
+            {
+              "label": "5",
+              "detail": "レディゴルフでペースを保ち、ボールマークを直し、バンカーを均す。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Normal Golf Game Wiki 操作",
+          "description": "スタンス、スイング方向、クラブフェースの角度、ショットの軌道がどう組み合わさるかを確認します。",
+          "href": "/mechanics/normal-golf-game-mechanics",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "スタンス",
+              "detail": "毎回のスイング前に足の位置とボール位置を決める。"
+            },
+            {
+              "label": "スイング",
+              "detail": "バックスイングのテンポとダウンスイングのタイミングを手動で操作する。"
+            },
+            {
+              "label": "クラブフェース",
+              "detail": "スイング軌道に対するフェース角がドローかフェードを決める。"
+            },
+            {
+              "label": "ショットの軌道",
+              "detail": "手動の狙い合わせが自動エイムアークとスナップを置き換える。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Normal Golf Game Wiki バウンティ",
+          "description": "バウンティの発動条件、条件、報酬を把握し、サイド目標を見逃さないようにします。",
+          "href": "/bounties/normal-golf-game-bounties",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "スコアリング",
+              "detail": "バーディ、イーグル、ハーフでのアンダーパーが最大の報酬を生む。"
+            },
+            {
+              "label": "弾道",
+              "detail": "ドロー、フェード、スティンガーのバウンティは意図的な弾道を評価する。"
+            },
+            {
+              "label": "距離",
+              "detail": "長いドライブと正確なキャリー距離は攻めのプレーと重なる。"
+            },
+            {
+              "label": "精度",
+              "detail": "フェアウェイキープ、パーオン、サンドセーブは低リスクの報酬。"
+            },
+            {
+              "label": "連続記録",
+              "detail": "危険なピンを狙わず、連続パーやバーディをつなげる。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Normal Golf Game Wiki クラブ",
+          "description": "ロフト、役割、典型的な飛距離でクラブファミリーを比較し、隙間なく揃ったバッグを作ります。",
+          "href": "/guide/normal-golf-game-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "パター — グリーン上のすべてのショットはこれを通る。"
+            },
+            {
+              "label": "A",
+              "detail": "ドライバー — ティーショットで最大の飛距離、平均的なアマチュアで約180〜230ヤード。"
+            },
+            {
+              "label": "B",
+              "detail": "アイアン（4〜PW） — 約100〜180ヤードからのアプローチとパー3のティーショット。"
+            },
+            {
+              "label": "C",
+              "detail": "ウェッジ — 110ヤード以内の短いアプローチ、バンカー、チップ。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Normal Golf Game Wiki 実績",
+          "description": "スコア目標、連続記録、練習の節目で完全クリアを目指します。",
+          "href": "/guide/normal-golf-game-100-percent",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "完全クリア",
+              "detail": "正直な打数で18ホールを100%で終える。"
+            },
+            {
+              "label": "アンダーパー",
+              "detail": "ギミーやマリガンなしでラウンド全体をアンダーパーでまとめる。"
+            },
+            {
+              "label": "連続記録",
+              "detail": "1ラウンドで連続パーやバーディをつなげる。"
+            },
+            {
+              "label": "ロングパット",
+              "detail": "快適に読める範囲を大きく超えたパットを沈める。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Normal Golf Game Wiki モード",
+          "description": "ストロークプレー、マッチプレー、スクランブル、スピードゴルフ、アシストなしのルールを一か所で比較します。",
+          "href": "/mechanics/normal-golf-game-ultimate-golf-challenge",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ストローク",
+              "detail": "18ホールの全打数を数え、合計が最も少ない人が勝つ。"
+            },
+            {
+              "label": "マッチ",
+              "detail": "合計打数ではなく、ホールごとの1対1で勝敗を決める。"
+            },
+            {
+              "label": "スクランブル",
+              "detail": "チームが毎回ベストショットを採用。初心者に最適。"
+            },
+            {
+              "label": "スピードゴルフ",
+              "detail": "少ないクラブで同じコースを時間と競う。"
+            },
+            {
+              "label": "アシストなし",
+              "detail": "スイングメーター、パットグリッド、自動エイムを切り、完全シミュレーションで遊ぶ。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Normal Golf Game Wiki パッチノート",
+          "description": "リリースまでの流れ、新装備、発売後の修正を追います。",
+          "href": "/release/normal-golf-game-full-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リリース",
+              "detail": "完全版1.0は2026年9月21日にPCとSteamで登場。"
+            },
+            {
+              "label": "新装備",
+              "detail": "新しいクラブ、コスメ、バッグタグで獲得できるものが広がる。"
+            },
+            {
+              "label": "バウンティ",
+              "detail": "スコア、精度、連続記録にわたる100以上のバウンティが完全版と共に実装。"
+            },
+            {
+              "label": "修正",
+              "detail": "継続的なパッチでPCの安定性とコントローラー対応が向上。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Normal Golf Game Wiki システム要件",
+          "description": "インストール前にプラットフォーム対応、コントローラー要件、Steam Deck互換性を確認します。",
+          "href": "/platforms/normal-golf-game-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Steam経由のWindows PC。完全版は2026年9月21日から配信中。"
+            },
+            {
+              "label": "Steam Deck",
+              "detail": "Valveの互換バッジを確認：Verifiedなら既定のコントローラー設定で動作。"
+            },
+            {
+              "label": "コントローラー",
+              "detail": "手動のスイングテンポにはアナログスティック入力を推奨。"
+            },
+            {
+              "label": "ディスプレイ",
+              "detail": "小型画面の携帯プレイでは見やすいUIが最も重要。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Normal Golf Gameに関するよくある質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Normal Golf Gameとは何ですか？",
+          "answer": "Normal Golf Gameは、開発者Luke Muscatによるシングルプレイの物理演算ゴルフゲームです。広大なコースで、スタンス、スイング方向、クラブフェースの角度、ショットの軌道を操作し、奇妙なチャレンジと100以上のバウンティに挑みます。"
+        },
+        {
+          "question": "対応プラットフォームは？",
+          "answer": "Normal Golf GameはSteamを通じてPCで配信され、2026年9月21日にリリースされました。Steamページでは現在、対応インターフェース言語として英語のみが記載されています。"
+        },
+        {
+          "question": "バウンティと実績はいくつありますか？",
+          "answer": "Normal Golf Gameの完全版には100以上のバウンティと20個のSteam実績があり、単なるスコアカード以上のやり込み要素があります。"
+        },
+        {
+          "question": "Normal Golf Gameは難しいですか？",
+          "answer": "はい。Normal Golf Gameは意図的に難しい物理システムを中心に作られています。スタンス、スイング、クラブフェースを別々に操作するため、最初は思った場所にボールが飛ばないことがほとんどです。"
+        },
+        {
+          "question": "初心者はどこから始めればいい？",
+          "answer": "まずはNormal Golf Game初心者ガイドでラウンドの流れ、スコア、ペース配分を学び、その後このWikiの操作とバウンティのセクションに進みましょう。"
+        },
+        {
+          "question": "ストーリーはありますか？",
+          "answer": "Normal Golf Gameは物理演算ゴルフに、奇妙でダークコメディ調のストーリーと、変わったチャレンジや隠し要素に満ちた広大なコースを組み合わせています。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Normal Golf Gameをマスターする準備はできましたか？",
+      "description": "最初のティーショットから最後のバウンティまで、当コミュニティWikiが無料で最新のガイド、ヒント、ウォークスルーを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！",
+    "readFullGuide": "ガイド全文を読む",
+    "tierLabel": "ティア",
+    "close": "閉じる",
+    "noActiveCodes": "現在利用可能なコードはありません",
+    "checkBackSoon": "新しいコードを近日公開予定です"
+  },
+  "footer": {
+    "aboutTitle": "Normal Golf Game Wiki",
+    "about": "Normal Golf Game Wikiは、ゴルフの操作、クラブ、バウンティ、ウォークスルー、実績、秘密、そして新旧のプレイヤーに役立つゲーム知識を扱う、ファン制作の独立系ガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Normal Golf Game Wiki. Luke MuscatおよびValve Corporationとは無関係です。",
+    "description": "PCとSteamの高難度物理演算ゴルフシム。バウンティ100以上、実績20個。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "開発者YouTube",
+    "vvBuilder": "Steamコミュニティハブ",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "バウンティガイド",
+    "bossGuides": "メカニクスガイド",
+    "buildGuide": "秘密ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  },
+  "guide": {
+    "overviewTitle": "Normal Golf Game ガイド",
+    "overviewDescription": "Normal Golf Gameのガイドハブを閲覧：初心者向けウォークスルー、ヒント、スコアリングルール、ホールインワンのコツ、最初と100回目のラウンドのための100%クリアルート。"
+  },
+  "bounties": {
+    "overviewTitle": "Normal Golf Game バウンティ",
+    "overviewDescription": "場所、チャレンジ条件、最後のバウンティのウォークスルーで、Normal Golf Gameのすべてのバウンティを追い、報酬を逃さず獲得しましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Normal Golf Game メカニクス",
+    "overviewDescription": "スコアリングとペナルティからクラブ選択、スピードゴルフ、アシストなしプレイ、究極のゴルフチャレンジまで、Normal Golf Gameのメカニクスを理解します。"
+  },
+  "secrets": {
+    "overviewTitle": "Normal Golf Game 秘密",
+    "overviewDescription": "隠しゴング、秘密のゴング、ナイトメアホールなど、Normal Golf Gameの秘密を段階的な手順とチャレンジのメモと共に見つけましょう。"
+  },
+  "platforms": {
+    "overviewTitle": "Normal Golf Game 対応プラットフォーム",
+    "overviewDescription": "PC、Steam、Steam Deck、Switch、Xbox、オンライン・マルチプレイ対応など、Normal Golf Gameのプラットフォーム詳細を確認。"
+  },
+  "release": {
+    "overviewTitle": "Normal Golf Game リリース",
+    "overviewDescription": "対応する各ストアのNormal Golf Gameのリリース日、完全版、デモ、価格、ダウンロード情報を追います。"
+  },
+  "community": {
+    "overviewTitle": "Normal Golf Game コミュニティ",
+    "overviewDescription": "公式Discord、Reddit、YouTube、開発者Luke Muscatを通じてNormal Golf Gameコミュニティとつながりましょう。"
+  }
+}
